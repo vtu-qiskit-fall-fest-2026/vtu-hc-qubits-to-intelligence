@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Qubits To Intelligence** · Team ID `VTU-QFF-HC-0120` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Qubits To Intelligence)
+[⬆ Back to Top](#qubits-to-intelligence)
 
 </div>
